@@ -1,3 +1,5 @@
+//Вариант 3
+
 import java.util.concurrent.RecursiveTask;
 import java.util.concurrent.ForkJoinPool;
 
